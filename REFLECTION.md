@@ -39,13 +39,13 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Additional Reflections (Optional)
 
-### What would you like to learn more about?
+### What would you like to learn more about? I want to learn how to apply threading on codes because this is the most challenging thing
 
 [Any topics related to threading, concurrency, or operating systems that you're curious about?]
 
 ---
 
-### How confident do you feel about multithreading concepts now?
+### How confident do you feel about multithreading concepts now?  beginner,Because I know the topic as concept but I don't know how to apply it on codes because writing code is always a challenging thing to me
 
 [Rate yourself and explain: Beginner / Intermediate / Confident]
 
