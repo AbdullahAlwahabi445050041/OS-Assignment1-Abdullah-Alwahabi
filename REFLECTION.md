@@ -7,7 +7,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Question 1: What did you learn about multithreading?
 
-**Your Answer:**
+**Your Answer:i lernd that one prosesore can can do alot of tasks thrugh shering resorces**
 
 [Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
@@ -15,7 +15,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Question 2: What was the most challenging part of this assignment?
 
-**Your Answer:**
+**Your Answer:i thenk that the most challenge thing is writing the code**
 
 [Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
@@ -23,7 +23,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Question 3: How did you overcome the challenges you faced?
 
-**Your Answer:**
+**Your Answer:i lernd that i nede to improve codeing skilse**
 
 [Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
 
@@ -31,7 +31,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
-**Your Answer:**
+**Your Answer:We can apply it in alot applications Such as the web servers or the photo app **
 
 [Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
 
