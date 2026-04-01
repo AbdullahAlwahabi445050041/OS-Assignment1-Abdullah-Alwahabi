@@ -89,7 +89,8 @@ class Process implements Runnable {
                               Colors.RESET + Colors.BRIGHT_GREEN + " finished execution!" + 
                               Colors.RESET);
         }
-        System.out.println();
+        int studentID = 445050041
+        System.out.println("studentID=445050041");
     }
     
     // Helper method to create a visual progress bar
