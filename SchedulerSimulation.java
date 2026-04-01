@@ -91,6 +91,9 @@ class Process implements Runnable {
         }
         int studentID = 445050041
         System.out.println("studentID=445050041");
+        git add SchedulerSimulation.java
+git commit -m "Set my student ID: 441234567"
+git push origin main
     }
     
     // Helper method to create a visual progress bar
