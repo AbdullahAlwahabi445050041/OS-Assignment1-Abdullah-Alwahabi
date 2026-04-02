@@ -41,15 +41,15 @@ Example from my output:
 
 [Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [When is P1 in New state?]  thred is created but  not dtart
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [When does P1 become Runnable?]  after start thredis ready to run
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [When is P1 Running?]   in CPU
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [When/why would P1 be Waiting?]     its waiting for another thread to finesh
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [When is P1 Terminated?]    if its run and finsh
 
 ---
 
