@@ -9,7 +9,7 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Question**: Explain the difference between a **thread** and a **process**. Why did we use threads in this assignment instead of creating separate processes?
 
-**Your Answer:**
+**Your Answer:Process for a heavyweight and he has his own adress space     threds for lightweight work and it has Shared address space and it use shared memory  and i thenk we usedit Because  we need lightweight work  **
 
 [Write your answer here. Consider: What is a process? What is a thread? How do they differ in terms of memory, resources, creation overhead? Why are threads more suitable for this simulation?]
 
