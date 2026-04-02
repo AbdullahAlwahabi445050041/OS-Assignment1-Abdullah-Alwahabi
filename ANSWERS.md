@@ -59,31 +59,32 @@ Example from my output:
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [Name of application/scenario]  Playstation 
 
 **Description**: 
-[Describe the real-world scenario or application]
+[Describe the real-world scenario or application]  Because it takes a lot of things like reading User input Or showing interface or Playing soundtracks
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]     Because it make sure to everything works smoothly and there is no threats starving
 
-### Example 2: [Name of application/scenario]
+### Example 2: [Name of application/scenario]    Cinema application
 
 **Description**: 
-[Describe the real-world scenario or application]
+[Describe the real-world scenario or application]      There is a lot of user trying to book a seates at the same time
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]   its  preventing one user  from blocking others This ensures equal opportunity for all customers to complete their
+bookings without delays  
 
 ---
 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1.the difrent btwen threds and process 
+2. round robin
+3. Threads applications
 
 **Concepts I need to study more:**
-1. 
-2. 
+1. how can I apply threads in real life
+2. How to use threads in the best way
