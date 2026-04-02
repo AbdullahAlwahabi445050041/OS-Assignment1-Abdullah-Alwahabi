@@ -19,7 +19,7 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Question**: In Round-Robin scheduling, what happens when a process doesn't finish within its time quantum? Explain using an example from your program output.
 
-**Your Answer:**
+**Your Answer:  If a process doesn’t finish within its time quantum it is preempted and moved to the end of the ready queu:**
 
 [Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
 
